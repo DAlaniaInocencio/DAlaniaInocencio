@@ -1,7 +1,7 @@
 ### <div align="center">I'm Darvin Alania 👨‍💻 🚀</div>  
   
 
-I'm an Industrial Engineer and Full Stack Developer with knowledge in programming language and encourage for learning new things and collaborate in groups. I'm a self-learning developer and hope to contribute to open source related to the Internet of Things in the future.  
+I'm an Industrial Engineer and Full Stack Developer with knowledge in programming language and encourage for learning new things and collaborate in groups. I'm a self-learning developer and hope to contribute to open source related to the Internet of Things in the future. You can write to me at darvin.alania@gmail.com 
   
 
 - 🌱 I’m currently doing a group project  
