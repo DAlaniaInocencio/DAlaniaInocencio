@@ -65,7 +65,7 @@ I'm an Industrial Engineer and Full Stack Developer with knowledge in programmin
 ### YouDrive
 ![image](https://github.com/DAlaniaInocencio/DAlaniaInocencio/assets/152816164/6d434347-bc13-47e4-beae-519ab8ee8af3)
 
-We develop You Drive, a vehicle management application, in a team of Full Stack developers. The application includes functionalities for vehicle, tenant and lessor tracking.
+We develop You Drive, a vehicle management application, in a team of Full Stack developers. The application includes functionalities for vehicle, tenant and lessor tracking.<br>
 [![Visita el Proyecto](https://img.shields.io/badge/Ver%20Proyecto-Click%20aquí-blue)](https://github.com/DAlaniaInocencio/PM6-grupo3)
 
 </td>
