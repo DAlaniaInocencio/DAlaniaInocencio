@@ -65,16 +65,10 @@ I'm an Industrial Engineer and Full Stack Developer with knowledge in programmin
 ### YouDrive
 ![image](https://github.com/DAlaniaInocencio/DAlaniaInocencio/assets/152816164/6d434347-bc13-47e4-beae-519ab8ee8af3)
 
-I'm an Industrial Engineer and Full Stack Developer with knowledge in programming language and encourage for learning new things and collaborate in groups. I'm a self-learning developer and hope to contribute to open source related to the Internet of Things in the future. You can write to me at darvin.
-</td>
+We develop You Drive, a vehicle management application, in a team of Full Stack developers. The application includes functionalities for vehicle, tenant and lessor tracking.
+
 </td>
 <td valign="top" width="33%">
-
-### Project personal  
-I'm an Industrial Engineer and Full Stack Developer with knowledge in programming language and encourage for learning new things and collaborate in groups. I'm a self-learning developer and hope to contribute to open source related to the Internet of Things in the future. You can write to me at darvin.
-
-
-
 
 
 </td></tr></table> 
