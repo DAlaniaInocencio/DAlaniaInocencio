@@ -59,13 +59,13 @@ Soy Ingeniero Industrial y Desarrollador Full Stack con conocimientos en lenguaj
 
 <br/>  
 
-## Proyects  
+## Proyectos  
 <table><tr><td valign="top" width="33%">
 
 ### YouDrive
 ![Captura de pantalla del Proyecto](https://github.com/DAlaniaInocencio/DAlaniaInocencio/assets/152816164/6d434347-bc13-47e4-beae-519ab8ee8af3)
 
-We develop You Drive, a vehicle management application, in a team of Full Stack developers. The application includes functionalities for vehicle, tenant and lessor tracking.<br>
+Desarrollamos You Drive, una aplicación de gestión de vehículos, en un equipo de desarrolladores Full Stack. La aplicación incluye funcionalidades para el seguimiento de vehículos, inquilinos y arrendadores.<br>
 [![Code](https://img.shields.io/badge/Show%20Code-Push%20here-blue)](https://github.com/DAlaniaInocencio/PM6-grupo3)
 
 </td>
