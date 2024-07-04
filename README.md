@@ -1,16 +1,16 @@
-### <div align="center">I'm Darvin Alania 👨‍💻 🚀</div>  
+### <div align="center">Soy darvin alania 👨‍💻 🚀</div>  
   
 
-I'm an Industrial Engineer and Full Stack Developer with knowledge in programming language and encourage for learning new things and collaborate in groups. I'm a self-learning developer and hope to contribute to open source related to the Internet of Things in the future. You can write to me at darvin.alania@gmail.com 
+Soy Ingeniero Industrial y Desarrollador Full Stack con conocimientos en lenguajes de programación y ánimo para aprender cosas nuevas y colaborar en grupo. Soy un desarrollador autodidacta y espero contribuir al código abierto relacionado con el Internet de las cosas en el futuro. Puedes escribirme a darvin.alania@gmail.com
   
 
-- 🌱 I’m currently doing a group project  
+- 🌱 Actualmente estoy haciendo un proyecto grupal.  
   
 
-- 🤝I’m  looking for a job opportunity to apply all the knowledge acquired as a programmer  
+- 🤝 Busco una oportunidad laboral para aplicar todos los conocimientos adquiridos como programador.  
   
 
-- ⚡ Fun fact: I think I'm Funny  😅😂  
+- ⚡ Dato curioso: creo que soy gracioso 😅😂  
   
 
 <br/>  
