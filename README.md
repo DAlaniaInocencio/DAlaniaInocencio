@@ -16,7 +16,7 @@ Soy Ingeniero Industrial y Desarrollador Full Stack con conocimientos en lenguaj
 <br/>  
 
 
-## My Skill Set  
+## Mis habilidades
 <table><tr><td valign="top" width="33%">
 
 
