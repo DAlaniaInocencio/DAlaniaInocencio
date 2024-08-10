@@ -79,7 +79,9 @@ Desarrollamos You Drive, una aplicación de gestión de vehículos, en un equipo
 [![Code](https://img.shields.io/badge/Show%20Code-Push%20here-blue)](https://github.com/DAlaniaInocencio/c19-07-ft-node-react)
 
 </td>
-<td valign="top" width="33%">
+<!-- <td valign="top" width="33%">
 
-</td></tr></table>
+</td>
+ -->
+</tr></table>
 
