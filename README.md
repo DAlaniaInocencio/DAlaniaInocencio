@@ -71,7 +71,7 @@ Desarrollamos You Drive, una aplicación de gestión de vehículos, en un equipo
 </td>
 <td valign="top" width="33%">
 
-### YouDrive
+### School Metrics
 
 ![Captura de pantalla del Proyecto](https://github.com/user-attachments/assets/9acd1a17-886f-4ddc-adeb-ca3b4563fe3d)
 
