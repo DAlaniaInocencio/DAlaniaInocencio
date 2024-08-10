@@ -1,4 +1,4 @@
-### <div align="center">Soy darvin alania 👨‍💻 🚀</div>  
+### <div align="center">Soy Darvin Alania 👨‍💻 🚀</div>  
   
 
 Soy Ingeniero Industrial y Desarrollador Full Stack con conocimientos en lenguajes de programación y dispuesto a aprender cosas nuevas y colaborar en grupo. Soy un desarrollador autodidacta y espero contribuir al código abierto relacionado con el Internet de las cosas en el futuro. Puedes escribirme a darvin.alania@gmail.com
