@@ -72,10 +72,11 @@ Desarrollamos You Drive, una aplicación de gestión de vehículos, en un equipo
 <td valign="top" width="33%">
 
 ### YouDrive
-![Captura de pantalla del Proyecto](https://github.com/DAlaniaInocencio/DAlaniaInocencio/assets/152816164/6d434347-bc13-47e4-beae-519ab8ee8af3)
+
+![Captura de pantalla del Proyecto](https://github.com/user-attachments/assets/9acd1a17-886f-4ddc-adeb-ca3b4563fe3d)
 
 Desarrollamos You Drive, una aplicación de gestión de vehículos, en un equipo de desarrolladores Full Stack. La aplicación incluye funcionalidades para el seguimiento de vehículos, inquilinos y arrendadores.<br>
-[![Code](https://img.shields.io/badge/Show%20Code-Push%20here-blue)](https://github.com/DAlaniaInocencio/PM6-grupo3)
+[![Code](https://img.shields.io/badge/Show%20Code-Push%20here-blue)](https://github.com/DAlaniaInocencio/c19-07-ft-node-react)
 
 </td>
 <td valign="top" width="33%">
