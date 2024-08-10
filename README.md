@@ -75,7 +75,7 @@ Desarrollamos You Drive, una aplicación de gestión de vehículos, en un equipo
 
 ![Captura de pantalla del Proyecto](https://github.com/user-attachments/assets/9acd1a17-886f-4ddc-adeb-ca3b4563fe3d)
 
-Desarrollamos You Drive, una aplicación de gestión de vehículos, en un equipo de desarrolladores Full Stack. La aplicación incluye funcionalidades para el seguimiento de vehículos, inquilinos y arrendadores.<br>
+Una plataforma online para poder medir el rendimiento escolar de los estudiantes y que sus padres esten enterados de las calificaciones. Los padres pueden comunicarse con los profesores en tiempo real.<br>
 [![Code](https://img.shields.io/badge/Show%20Code-Push%20here-blue)](https://github.com/DAlaniaInocencio/c19-07-ft-node-react)
 
 </td>
