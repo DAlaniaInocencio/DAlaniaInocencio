@@ -71,9 +71,6 @@ Desarrollamos You Drive, una aplicación de gestión de vehículos, en un equipo
 </td>
 <td valign="top" width="33%">
 
-
-</td></tr></table>
-
 ### YouDrive
 ![Captura de pantalla del Proyecto](https://github.com/DAlaniaInocencio/DAlaniaInocencio/assets/152816164/6d434347-bc13-47e4-beae-519ab8ee8af3)
 
@@ -83,5 +80,5 @@ Desarrollamos You Drive, una aplicación de gestión de vehículos, en un equipo
 </td>
 <td valign="top" width="33%">
 
-
 </td></tr></table>
+
